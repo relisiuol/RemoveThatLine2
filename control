@@ -1,9 +1,9 @@
 Package: fr.relisiuol.removethatline2
 Name: RemoveThatLine2
 Depends: mobilesubstrate
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
-Description: Remove border at navigation bar bottom
+Description: Remove border on bottom navigation bar and border on top tab bar
 Maintainer: relisiuol
 Author: relisiuol
 Section: Tweaks
